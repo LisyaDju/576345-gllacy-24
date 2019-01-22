@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Джу Лисья](https://up.htmlacademy.ru/htmlcss/24/user/576345).
-* Наставник: `Неизвестно`.
+* Наставник: [Ксения Григорьева](https://htmlacademy.ru/profile/arctic_pie).
 
 ---
 
